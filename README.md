@@ -16,10 +16,12 @@ Any group who are willing to join ITIC have to follow the Code of Conduct Below:
 # Application Procedures(申请手续)
 Please follow the procedure below to apply for the ITIC:
 请参照一下步骤来申请参加ITIC：
-##Group Application Procedure(团体申请手续):
+
+## Group Application Procedure(团体申请手续):
 1.	Decide on a representative member of your group / 选择一名代表团体的组员
 2.	Please fill out the ‘ITIC Group Application Form’ and ‘Group Member List’ and send both files to the following WeChat account: ‘justinpu06’ / 请填写 ‘ITIC 团体入群申请表’ 和 ‘组员名单’ 并将文件发送送至微信账号: ‘justinpu06’
 3.	After the application form have been approved the representative will be added into the group, the representative can then add the rest of their members into the group / 申请表被审核之后组的代表将会被加入群组，此组代表将可以邀请剩余的其他组员参加
-##Individual Application Procedure(个人申请手续):
+
+## Individual Application Procedure(个人申请手续):
 1.	Please fill out the ‘ITIC Individual Application Form’ and send the form to the following WeChat account: ‘justinpu06’ / 请填写 ‘ITIC 个人入群申请表’ 并将文件发送送至微信账号: ‘justinpu06’
 2.	After the application form have been approved you will be added into the group / 申请表被审核之后您将会被加入群组
